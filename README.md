@@ -17,7 +17,7 @@ I am passionate about creating seamless web experiences. My skills include:
 ## 💼 Experience
 
 **Frontend Developer Intern (React)** - Ecoevr Mobility Private Limited (Remote)  
-📅 03/2025 - Present
+📅 03/2025 - 05/2025
 
 * Converted Figma designs into responsive and modern UIs using React and Tailwind.
 * Utilized Git & GitHub for version control, managing branches, and collaborating on code reviews
